@@ -1,8 +1,8 @@
 # University Comparison: Python Dashboard
 
-* Youtube - Video Explanation: https://www.youtube.com/watch?v=6zeLTbZTNms
+> Youtube - Video Explanation: https://www.youtube.com/watch?v=6zeLTbZTNms
 
-This is a python university rank dashboard made only using python, the main purpose is to compare the rank of differents universities across the world, the main package used was dash. 
+>This is a python university rank dashboard made only using python, the main purpose is to compare the rank of differents universities across the world, the main package used was dash. 
 As a dash(package) Dashboard we can post as a open website that everyone can have acess in a easy way.
 
 Project Image:
