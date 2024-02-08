@@ -1,4 +1,4 @@
-# University Comparision: Python Dashboard
+# University Comparison: Python Dashboard
 
 * Youtube - Video Explanation: https://www.youtube.com/watch?v=6zeLTbZTNms
 
